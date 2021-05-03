@@ -151,7 +151,6 @@ Rvr.qini[1]=0 # [m/rad]
 # Call StaticEquilibrium() function
 # q[2] = -0.01 also works, as long as the
 # the tire is a little bit inside the ground
-# as indicated in the exam hint
 Rvr.qini[2]=0 # [m/rad]
 
 Rvr.qini[3]=0 # [m/rad]

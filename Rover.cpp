@@ -682,8 +682,7 @@ VanFile.open("Rover.van");
  as initial condition for q[2]
  Call StaticEquilibrium() function
  q[2] = -0.01 also works, as long as the
- the tire is a little bit inside the ground
- as indicated in the exam hint */
+ the tire is a little bit inside the ground */
 
 q[2] = -5e-5;
 
